@@ -1,0 +1,7 @@
+Package: testscript
+Version: 1.0
+Architecture: all
+Maintainer: Robert Key robkey@mighty.co.za
+Section: myown
+Priority: optional
+Description: This package tests postinst, preinst, postrm prerm scripts

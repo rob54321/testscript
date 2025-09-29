@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "postinst script"
+echo "called with: $1 $2 $3 $4 $5"
+
