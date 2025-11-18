@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "==============================="
-echo "prerm script"
+echo "testscript:prerm script"
 echo "called with: $1 $2 $3 $4 $5"
 echo "==============================="

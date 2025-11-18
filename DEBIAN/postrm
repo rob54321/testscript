@@ -1,5 +1,5 @@
 #!/bin/bash
 echo "==============================="
-echo "postrm script"
+echo "testscript:postrm script"
 echo "called with: $1 $2 $3 $4 $5"
 echo "==============================="
